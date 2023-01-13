@@ -10,11 +10,74 @@
 
 <!--Banner Section Begin-->
 <div class="home-banner row">
-    <img src="../images/banner.jpg" />
+    <img src="../images/home-banner.jpg" />
     <div class="container banner-content">
-        <div class="col-12 col-lg-6">
+        <div class="col-12 col-lg-9">
             <h2>Property Search</h2>
-            <p>Dynamic Form will render here</p>
+            <form class="home-form">
+                <div class="form-row">
+                    <div class="form-group col-md-12">
+                        <select id="inputState" class="form-control">
+                            <option selected>Real Property</option>
+                            <option>Real Property 1</option>
+                            <option>Real Property 2</option>
+                            <option>Real Property 3</option>
+                            <option>Real Property 4</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group col-md-12">
+                        <input type="text" class="form-control" id="inputSearch" placeholder="Search By Owner (Last Name, First Name)">
+                    </div>
+                </div>
+                <div class="form-row column-4">
+                    <div class="form-group col-md-4 streetNo">
+                        <input type="text" class="form-control" id="inputStreetNo" placeholder="Street No.">
+                    </div>
+                    <div class="form-group col-md-2">
+                        <select id="inputDir" class="form-control">
+                            <option selected>Dir</option>
+                            <option>Dir 1</option>
+                            <option>Dir 2</option>
+                            <option>Dir 3</option>
+                        </select>
+                    </div>
+                    <div class="form-group col-md-4 streetName">
+                        <input type="text" class="form-control" id="inputStreetName" placeholder="Street Name">
+                    </div>
+                    <div class="form-group col-md-2">
+                        <select id="inputSuffix" class="form-control">
+                            <option selected>Suffix</option>
+                            <option>Suffix 1</option>
+                            <option>Suffix 2</option>
+                            <option>Suffix 3</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <input type="text" class="form-control" id="inputParcelNo" placeholder="Enter Parcel No. With OR Without Dashes">
+                </div>
+
+                <div class="form-row">
+                    <input type="text" class="form-control" id="inputSearchByFacility" placeholder="Search By Facility">
+                </div>
+
+                <div class="form-row">
+                    <input type="text" class="form-control" id="inputSearchBySub" placeholder="Search By Subdivision">
+                </div>
+
+                <div class="form-row">
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" id="gridCheck">
+                        <label class="form-check-label" for="gridCheck">
+                            On execute, I accept the forms of Use
+                        </label>
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
         </div>
     </div>
 </div>

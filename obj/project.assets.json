@@ -1801,24 +1801,26 @@
     ]
   },
   "packageFolders": {
-    "/Users/pushkerpandey/.nuget/packages/": {}
+    "C:\\Users\\Rajeev.choudhary\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pushkerpandey/Projects/Seminole/Seminole/Seminole.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\jeremy\\Seminole.csproj",
       "projectName": "Seminole",
-      "projectPath": "/Users/pushkerpandey/Projects/Seminole/Seminole/Seminole.csproj",
-      "packagesPath": "/Users/pushkerpandey/.nuget/packages/",
-      "outputPath": "/Users/pushkerpandey/Projects/Seminole/Seminole/obj/",
+      "projectPath": "C:\\xampp\\htdocs\\jeremy\\Seminole.csproj",
+      "packagesPath": "C:\\Users\\Rajeev.choudhary\\.nuget\\packages\\",
+      "outputPath": "C:\\xampp\\htdocs\\jeremy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/pushkerpandey/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Rajeev.choudhary\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1861,7 +1863,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-            "version": "[7.0.1, 7.0.1]"
+            "version": "[7.0.0, 7.0.0]"
           }
         ],
         "frameworkReferences": {
@@ -1869,7 +1871,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

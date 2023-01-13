@@ -21,6 +21,29 @@ a, .btn-link {
         margin:0;
     }
 }
+form.home-form {
+    margin-top: 25px;
+}
+.home-form .form-row{
+    margin-bottom:14px;
+}
+.home-form .form-row.column-4{
+    display:flex;
+}
+.home-form .form-row.column-4 .streetNo {
+    padding-right:6px;
+}
+.home-form .form-row.column-4 .streetName {
+    padding: 0 6px;
+}
+.home-form .form-row input {
+    border-radius: 18px;
+}
+.home-form .form-row .form-control {
+    color: #777;
+    border-radius: 12px;
+    -webkit-appearance:auto;
+}
 
 .top-info {
     color: #fff;
@@ -48,22 +71,39 @@ a, .btn-link {
 
     .banner-content {
         position: absolute;
-        top: 10%;
+        top: 8%;
         left: 5%;
         color: #fff;
         max-width: inherit;
         padding: 0;
         width: 50%;
     }
-
-        .banner-content h2 {
-            color: #fff;
-            text-transform: uppercase;
+    @media (max-width: 767px) {
+        .home-banner {
+            background: url("../images/home-banner.jpg") no-repeat;
+            padding: 30px 0;
         }
+        .banner-content {
+            position: relative;
+            top: 0;
+            left: 0;
+            width: 88%;
+        }
+    }
+
+    .banner-content h2 {
+        color: #fff;
+        text-transform: uppercase;
+    }
 
     .home-banner img {
         width: 100%;
         padding: 0;
+    }
+    @media (max-width: 767px) {
+        .home-banner img {
+            display:none;
+        }
     }
 
     .home-tabs .row > *{
