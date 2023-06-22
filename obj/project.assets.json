@@ -1801,26 +1801,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rajeev.choudhary\\.nuget\\packages\\": {}
+    "/Users/jeremywood/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\xampp\\htdocs\\jeremy\\Seminole.csproj",
+      "projectUniqueName": "/Users/jeremywood/seminole_blazor_project/Seminole.csproj",
       "projectName": "Seminole",
-      "projectPath": "C:\\xampp\\htdocs\\jeremy\\Seminole.csproj",
-      "packagesPath": "C:\\Users\\Rajeev.choudhary\\.nuget\\packages\\",
-      "outputPath": "C:\\xampp\\htdocs\\jeremy\\obj\\",
+      "projectPath": "/Users/jeremywood/seminole_blazor_project/Seminole.csproj",
+      "packagesPath": "/Users/jeremywood/.nuget/packages/",
+      "outputPath": "/Users/jeremywood/seminole_blazor_project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Rajeev.choudhary\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/jeremywood/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1871,7 +1869,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/jeremywood/.vscode-dotnet-sdk/.dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

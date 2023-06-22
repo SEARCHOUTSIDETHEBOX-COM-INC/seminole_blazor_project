@@ -9,73 +9,77 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Seminole
 build_property.RootNamespace = Seminole
-build_property.ProjectDir = C:\xampp\htdocs\jeremy\
+build_property.ProjectDir = /Users/jeremywood/seminole_blazor_project/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\xampp\htdocs\jeremy
+build_property.MSBuildProjectDirectory = /Users/jeremywood/seminole_blazor_project
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/xampp/htdocs/jeremy/App.razor]
+[/Users/jeremywood/seminole_blazor_project/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/jeremy/Pages/ContactUs.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdFVzLnJhem9y
+[/Users/jeremywood/seminole_blazor_project/Pages/ContactUs.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGFjdFVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/jeremy/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[/Users/jeremywood/seminole_blazor_project/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/jeremy/Pages/Downloads.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG93bmxvYWRzLnJhem9y
+[/Users/jeremywood/seminole_blazor_project/Pages/Downloads.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRG93bmxvYWRzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/jeremy/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+[/Users/jeremywood/seminole_blazor_project/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/jeremy/Pages/FileHomested.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmlsZUhvbWVzdGVkLnJhem9y
+[/Users/jeremywood/seminole_blazor_project/Pages/FileHomested.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmlsZUhvbWVzdGVkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/jeremy/Pages/Homeowners.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZW93bmVycy5yYXpvcg==
+[/Users/jeremywood/seminole_blazor_project/Pages/Homeowners.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZW93bmVycy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/jeremy/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+[/Users/jeremywood/seminole_blazor_project/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/jeremy/Pages/Links.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGlua3MucmF6b3I=
+[/Users/jeremywood/seminole_blazor_project/Pages/Links.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTGlua3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/jeremy/Pages/OurOffice.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3VyT2ZmaWNlLnJhem9y
+[/Users/jeremywood/seminole_blazor_project/Pages/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/jeremy/Pages/Search.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VhcmNoLnJhem9y
+[/Users/jeremywood/seminole_blazor_project/Pages/OurOffice.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3VyT2ZmaWNlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/jeremy/Pages/Tangible.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFuZ2libGUucmF6b3I=
+[/Users/jeremywood/seminole_blazor_project/Pages/Search.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2VhcmNoLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/jeremy/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+[/Users/jeremywood/seminole_blazor_project/Pages/Tangible.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGFuZ2libGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/jeremy/_Imports.razor]
+[/Users/jeremywood/seminole_blazor_project/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jeremywood/seminole_blazor_project/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/jeremy/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-xc0e4adg9m
+[/Users/jeremywood/seminole_blazor_project/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-3gdqxs6sab
 
-[C:/xampp/htdocs/jeremy/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-adeo21ahbr
+[/Users/jeremywood/seminole_blazor_project/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-fs80wyvobl
